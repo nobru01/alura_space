@@ -1,0 +1,28 @@
+Arquiteruta MVC (Model View Controler) X Django MVT (Model View Templete)
+
+    View do django é similar ao Controler
+
+
+-fullstack (back and front-end em um único lugar)
+
+--
+Arquivos criados no venv:
+
+.env
+.gitignore (https://www.toptal.com/developers/gitignore/)
+--
+setting.py
+
+LANGUAGE_CODE = 'pt-br'
+
+TIME_ZONE = 'America/Sao_Paulo'
+
+--
+
+COMANDOS:
+
+(o ponto não cria subpasta)
+(setup ou config)
+"django-admin startproject setup ."  
+
+
