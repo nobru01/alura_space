@@ -6,7 +6,7 @@ Arquiteruta MVC (Model View Controler) X Django MVT (Model View Templete)
 -fullstack (back and front-end em um único lugar)
 
 --
-Arquivos criados no venv:
+Arquivos criados na pasta raiz:
 
 .env
 .gitignore (https://www.toptal.com/developers/gitignore/)
