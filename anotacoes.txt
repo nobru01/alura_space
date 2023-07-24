@@ -25,4 +25,8 @@ COMANDOS:
 (setup ou config)
 "django-admin startproject setup ."  
 
+coteta de arquivos estáticos
+
+py manage.py collectstatic
+
 
