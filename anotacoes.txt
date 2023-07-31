@@ -25,8 +25,14 @@ COMANDOS:
 (setup ou config)
 "django-admin startproject setup ."  
 
-coteta de arquivos estáticos
+coleta de arquivos estáticos
 
 py manage.py collectstatic
+
+--
+html
+
+extends deve ser a 1ª tag do templete (se não, não funciona)
+include pode colocar em qualquer lugar do código
 
 
