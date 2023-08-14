@@ -4,7 +4,9 @@ from galeria.models import Fotografia
 
 def index(request):
 
-    fotografia=Fotografia.objects.filter(publicada=True)
+        # ordena pela data da fotografia decrescente Maior para menor data
+    fotografia=Fotografia.objects. \
+        order_by("-data_fotografia").filter(publicada=True)
 
     return render(request, 'galeria/index.html',{'cards':fotografia})
 
