@@ -35,4 +35,5 @@ html
 extends deve ser a 1ª tag do templete (se não, não funciona)
 include pode colocar em qualquer lugar do código
 
-
+usuário: bruno.bfn
+senha django-admim: 123456
